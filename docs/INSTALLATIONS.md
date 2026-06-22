@@ -11,3 +11,9 @@ npx @angular/cli new ngx-ark-workspace --no-create-application --directory .
 ```bash
 npx ng generate library ngx-ark 
 ```
+
+3. Installer StoryBook : 
+
+```bash
+npx storybook@latest init
+```
