@@ -1,7 +1,13 @@
 # Différentes Commandes d'Installation : 
 
-- Installer le workspace (sans application Angular) : 
+1. Installer le workspace (sans application Angular) : 
 
 ```bash
 npx @angular/cli new ngx-ark-workspace --no-create-application --directory .
+```
+
+2. Créer la Librairie : 
+
+```bash
+npx ng generate library ngx-ark 
 ```
