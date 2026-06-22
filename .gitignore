@@ -11,6 +11,10 @@
 *.sln.docstates
 *.env
 
+node_modules
+.angular
+**/documentation.json
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -427,3 +431,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+*storybook.log
+storybook-static
